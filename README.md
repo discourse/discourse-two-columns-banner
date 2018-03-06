@@ -9,3 +9,5 @@ A theme component for Discourse to create a two-columns banner
 
 ### Mobile view - Landscape
 <img src="https://meta-s3-cdn.freetls.fastly.net/original/3X/0/4/04669d58b8687125805ef350bf9624d7e63e706b.gif">
+
+More infos at:
